@@ -1,0 +1,9 @@
+name: 가나다
+addr: 한국
+foods: 
+  - 불고기
+  - 잡채
+isMan: False
+body:
+  wight: 60
+  height: 170
